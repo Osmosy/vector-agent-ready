@@ -104,3 +104,20 @@
 ## Источник
 
 Методология на базе статьи [pimenov.ai — Agent-ready сайт](https://pimenov.ai/knowledge/agent-ready-sajt-metodologiya-podgotovki-dlya-ii-agentov/).
+
+## Деплой: GitHub Pages
+
+Бесплатный хостинг статических сайтов из GitHub. Пуш в репозиторий → сайт в интернете за минуту.
+
+**Применение в Vector:**
+- `vector-work` → публичный сайт экосистемы (`osmosy.github.io`)
+- `vector-marketing` → лендинги клиентов: агент генерит → пуш → сайт живёт
+- Документация любого проекта → GitHub Pages = публичный доступ без хостинга
+
+```bash
+# Settings → Pages → Source: Deploy from branch → main → /docs
+# Сайт будет доступен по адресу:
+https://osmosy.github.io/vector-work/
+```
+
+См. руководство: [pimenov.ai — GitHub Pages](https://pimenov.ai/knowledge/github-pages-besplatnyj-hosting/)
