@@ -4,6 +4,8 @@
 
 # Vector Agent-Ready
 
+[![Ecosystem: Vector](https://img.shields.io/badge/Ecosystem-Vector-blue.svg)](https://osmosy.github.io/)
+
 **Методология подготовки контента для ИИ-агентов — 7 слоёв, применимых к сайтам, репозиториям и базам знаний**
 
 [![Hermes Agent](https://img.shields.io/badge/Hermes-Agent-blue.svg)](https://github.com/NousResearch/hermes-agent)
